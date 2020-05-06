@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3482939.svg)](https://doi.org/10.5281/zenodo.3482939)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjspaaks%2Flokum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjspaaks%2Flokum?ref=badge_shield)
 
 # Lokum
 
@@ -84,3 +85,7 @@ DEPLOYMENT_DIR=/lokum/deployment/cluster0; ANSIBLE_HOST_KEY_CHECKING=False; expo
 To check Apache Spark open the link below in a browser:
 http://NODE_1_IP:8080/
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjspaaks%2Flokum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjspaaks%2Flokum?ref=badge_large)
